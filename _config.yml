@@ -1,0 +1,14 @@
+layout_spectrum: 0.7598566
+color:
+  saturation: 0.4991665
+  lightness: 0.4652769
+  brandStrength: 0.3046595
+  brandColors:
+    - '#836C5A'
+    - '#363F48'
+    - '#FFFFFF'
+    - '#B32940'
+    - '#EBC296'
+  rhythmicContrast: 0.4277492
+typography_spectrum: 0.4704398
+name: AliWasThere
